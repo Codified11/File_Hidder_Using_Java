@@ -1,2 +1,2 @@
 # Welcome to the File Hidder Console Based Application project !
-## The File Hider is a Java-based utility tool built using Maven that allows users to hide or unhide files and folders on their computer system. This tool interacts with the system's file attributes using built-in Java I/O libraries. The project is useful for basic file privacy and can be extended to support encryption in the future.
+### The File Hider is a Java-based utility tool built using Maven that allows users to hide or unhide files and folders on their computer system. This tool interacts with the system's file attributes using built-in Java I/O libraries. The project is useful for basic file privacy and can be extended to support encryption in the future.
