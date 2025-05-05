@@ -27,34 +27,34 @@ To create a console-based file hider application using Maven, the following depe
 
 # How It Works...<br/>
 
-![Screenshot 2025-05-05 200113](https://github.com/user-attachments/assets/a02d2bd4-e50d-484f-9f19-0ac9c796b077)
+1. ![Screenshot 2025-05-05 200113](https://github.com/user-attachments/assets/a02d2bd4-e50d-484f-9f19-0ac9c796b077)
 <br/>
 If new user comes then first do SignUp, enter 2 and enter details...<br/>
 
-![Screenshot 2025-05-05 200527](https://github.com/user-attachments/assets/5c721d9f-3d31-4ea8-b7ca-3d0e6c498373)
+2. ![Screenshot 2025-05-05 200527](https://github.com/user-attachments/assets/5c721d9f-3d31-4ea8-b7ca-3d0e6c498373)
 <br/>
 If you already SigUp then do Login, enter 1 and enter details...<br/>
 
-![Screenshot 2025-05-05 200317](https://github.com/user-attachments/assets/ad07d6b1-c109-4247-92a7-db456ec673bd)
+3. ![Screenshot 2025-05-05 200317](https://github.com/user-attachments/assets/ad07d6b1-c109-4247-92a7-db456ec673bd)
 <br/>
 If you enter wrong otp then it shows Wrong Otp...
 and if you want to exit the enter 0;<br/>
 
-![Screenshot 2025-05-05 202037](https://github.com/user-attachments/assets/88d87232-1e98-4246-aed3-873550fc497f)
+4. ![Screenshot 2025-05-05 202037](https://github.com/user-attachments/assets/88d87232-1e98-4246-aed3-873550fc497f)
 <br/>
 If you successfully login then it show some option...
 <br/>
 Enter 2  for hiding files of your local system by entering the correct files path...<br/>
 
-![Screenshot 2025-05-05 202237](https://github.com/user-attachments/assets/77d4877c-9fad-441c-a14e-784ceb430033)
+5. ![Screenshot 2025-05-05 202237](https://github.com/user-attachments/assets/77d4877c-9fad-441c-a14e-784ceb430033)
 <br/>
 Files save in DataBase correctly...<br/>
 
-![Screenshot 2025-05-05 202054](https://github.com/user-attachments/assets/536d32e5-d956-4b3c-a966-dedc3860e7eb)
+6. ![Screenshot 2025-05-05 202054](https://github.com/user-attachments/assets/536d32e5-d956-4b3c-a966-dedc3860e7eb)
 <br/>
 Enter 1 to show all hidden files of that user...<br/>
 
-![Screenshot 2025-05-05 202109](https://github.com/user-attachments/assets/900face8-acc6-4716-ac0f-5abeba7a24ef)
+7. ![Screenshot 2025-05-05 202109](https://github.com/user-attachments/assets/900face8-acc6-4716-ac0f-5abeba7a24ef)
 <br/>
 Enter 3 to unhide the files by entering your above show files Id...<br/>
 and Enter 0 to exit the code exceution....
