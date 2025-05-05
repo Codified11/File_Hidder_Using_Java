@@ -25,11 +25,11 @@ To create a console-based file hider application using Maven, the following depe
   <li>Console Interface - Menu-driven text UI for easy interaction.</li>
 </ul>
 
-# How It Works...
-<br/>
+# How It Works...<br/>
+
 ![Screenshot 2025-05-05 200113](https://github.com/user-attachments/assets/a02d2bd4-e50d-484f-9f19-0ac9c796b077)
-<br/>
-If new user comes then first do SignUp, enter 2 and enter details...
+
+<br/>If new user comes then first do SignUp, enter 2 and enter details...
 <br/>
 ![Screenshot 2025-05-05 200527](https://github.com/user-attachments/assets/5c721d9f-3d31-4ea8-b7ca-3d0e6c498373)
 <br/>
